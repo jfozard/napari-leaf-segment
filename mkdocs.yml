@@ -1,0 +1,10 @@
+site_name: napari-leaf-segment
+site_description: Simple leaf segmentation
+site_author: John Fozard
+
+theme: readthedocs
+
+repo_url: https://github.com/jfozard/napari-leaf-segment
+
+pages:
+- Home: index.md
